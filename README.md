@@ -108,7 +108,7 @@ I enjoy turning infrastructure into **reliable, automated, scalable, and reprodu
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me.
 
 <div align="center">
 
