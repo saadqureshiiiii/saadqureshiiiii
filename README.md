@@ -1,113 +1,162 @@
-# 👋 Hi, I'm Saad Hassan Qureshi
+<div align="center">
+
+# 👋 Saad Hassan Qureshi
 
 ### ☁️ Cloud & DevOps Engineer
 
+**AWS • Azure • Linux • Docker • Kubernetes • Terraform • CI/CD • GitOps**
+
+<br>
+
+<a href="https://www.saadsystems.me/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-SaadSystems-111111?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/saadqureshiiiii">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/saad-hassan-qureshi-1460153b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **Cloud & DevOps Engineer** focused on designing, automating, deploying, and monitoring modern cloud infrastructure.
+
+My work revolves around **AWS, Microsoft Azure, Linux, Docker, Kubernetes, Terraform, CI/CD, GitOps, Infrastructure as Code, networking, security, monitoring, and automation**.
+
+I build hands-on projects that combine cloud infrastructure with automation and production-oriented DevOps practices.
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud
+
 <p align="center">
-  <a href="https://www.saadsystems.me/">
-    <img src="https://img.shields.io/badge/Portfolio-saadsystems.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/saadqureshiiiii">
-    <img src="https://img.shields.io/badge/GitHub-Saad%20Qureshi-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/saad-hassan-qureshi-1460153b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Saad%20Hassan%20Qureshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:qurehisaad186@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-qurehisaad186%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="60" />
+</p>
+
+### 🐧 Linux & Scripting
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" />
+</p>
+
+### 🚀 DevOps & CI/CD
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="60" />
+</p>
+
+### 🔀 Version Control & Repositories
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="60" />
+</p>
+
+### 🌐 Networking & Web
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="60" />
+</p>
+
+### 📊 Monitoring & Observability
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="60" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="70" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🏗️ Featured Projects
 
-I am a Cloud & DevOps Engineer specializing in infrastructure automation, CI/CD pipelines, and cloud-native application deployment. My expertise spans AWS, Azure, Kubernetes, Terraform, and GitOps practices, with a focus on building scalable, resilient, and automated systems.
+### ☁️ Multi-Tier AWS Infrastructure
 
-I am committed to continuously expanding my technical capabilities through hands-on projects and exploring emerging DevOps trends to deliver robust, production-ready infrastructure solutions.
+**Terraform • AWS VPC • EKS • NAT Gateway • RDS PostgreSQL • Kubernetes**
 
----
+### 🔄 Automated GitOps CI/CD Pipeline
 
-## 🛠️ Technical Stack
+**GitHub Actions • Docker • Trivy • ArgoCD • Kubernetes**
 
-**Languages & Scripting**
+### ☸️ Production Kubernetes Environment
 
-Python · Bash · SQL
+**EKS • Kubernetes • Helm • NGINX Ingress • Cert-Manager • HPA**
 
-**Cloud Platforms**
+### 🔐 Linux Server Security Automation
 
-AWS · Azure · Google Cloud Platform
+**Linux • Bash • SSH Hardening • Firewall • Automated Backups**
 
-**Infrastructure as Code**
+### 📊 Infrastructure Monitoring & Logging
 
-Terraform · Helm
-
-**Containerization & Orchestration**
-
-Docker · Kubernetes
-
-**CI/CD & GitOps**
-
-GitHub Actions · GitLab CI/CD · ArgoCD
-
-**Monitoring & Observability**
-
-Prometheus · Grafana
-
-**Databases**
-
-PostgreSQL · MySQL · MongoDB · Redis
-
-**Networking & Web Servers**
-
-NGINX · Linux Administration
-
----
-
-## 🚀 Featured Projects
-
-### Multi-Tier AWS Infrastructure
-Designed and deployed a secure, multi-tier architecture on AWS using Terraform, including VPC, EKS clusters, RDS PostgreSQL, and NAT gateways.
-
-### Automated GitOps CI/CD Pipeline
-Implemented a full GitOps workflow with GitHub Actions, Docker image scanning, and ArgoCD for automated deployment to Kubernetes clusters.
-
-### Production Kubernetes Cluster
-Deployed a production-grade Kubernetes environment with EKS, Helm charts, NGINX Ingress, Cert-Manager, and Horizontal Pod Autoscaling.
-
-### Linux Server Security Automation
-Created Bash scripts to automate SSH hardening, firewall configuration, and scheduled backups for Ubuntu-based servers.
-
-### Infrastructure Monitoring & Logging Stack
-Built an observability stack using Prometheus, Grafana, Loki, and Alertmanager for real-time system monitoring and alerting.
+**Prometheus • Grafana • Loki • Alertmanager**
 
 ---
 
 ## 💼 Experience
 
 ### Junior DevOps Specialist — Burjsoft
-*May 2026 – August 2026*
 
-- Administered AWS cloud infrastructure and Linux-based servers.
-- Containerized applications using Docker and managed Kubernetes deployments.
-- Collaborated with development teams to streamline CI/CD workflows.
+**May 2026 – August 2026**
 
-### Freelance DevOps & Cloud Consultant
-*2025 – Present*
+### Worldwide Freelance — DevOps & Cloud Consultant
 
-- Provided cloud architecture and DevOps consulting for international clients.
-- Automated infrastructure provisioning with Terraform and Python scripts.
-- Assisted businesses in migrating legacy systems to cloud-native environments.
+**2025 – Present**
 
 ---
 
 ## 🎓 Certifications
 
-- **AWS Cloud & DevOps** — Comprehensive training covering core AWS services, architecture best practices, and DevOps methodologies.
-- **Python Programming** — Completed coursework focused on scripting, automation, and software development fundamentals.
-- **Cybersecurity & Ethical Hacking** — Training in system security, penetration testing basics, and vulnerability assessment.
-- **Linux Administration (Udemy)** — Practical Linux system administration, shell scripting, and server management.
-- **Data Analytics (Deloitte)** — Professional certification in data analysis and visualization techniques.
-- **Cloud Computing (DataCamp)** — Foundational certification covering cloud computing concepts and service models.
+* AWS Certified DevOps Engineer – Professional
+* Python Programming for All Levels
+* Ethical Hacking & Cybersecurity
+* Linux Administration Bootcamp: Beginner to Advanced
+* Deloitte Data Analytics Job Simulation
+* Understanding Cloud Computing — DataCamp
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+
+`AWS`  • 
+`Microsoft Azure`  • 
+`Kubernetes`  • 
+`Terraform`  • 
+`GitOps`  • 
+`CI/CD`  • 
+`Cloud Security`  • 
+`Monitoring`
+
+</p>
 
 ---
 
@@ -115,22 +164,56 @@ Built an observability stack using Prometheus, Grafana, Loki, and Alertmanager f
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadqureshiiiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=saadqureshiiiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadqureshiiiii&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadqureshiiiii&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saadqureshiiiii&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadqureshiiiii&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadqureshiiiii/saadqureshiiiii/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saadqureshiiiii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadqureshiiiii&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 <div align="center">
 
-### Build • Automate • Deploy • Scale
+### ⚡ Build • Automate • Deploy • Scale
+
+<br>
+
+<a href="https://www.saadsystems.me/">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=saadqureshiiiii&label=Profile%20Views&style=flat" />
 
 </div>
