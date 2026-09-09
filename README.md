@@ -67,14 +67,6 @@ I enjoy turning infrastructure into **reliable, automated, scalable, and reprodu
       <sub><b>AWS</b></sub>
     </td>
     <td align="center" width="115">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55" alt="Azure" /><br>
-      <sub><b>Azure</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud" /><br>
-      <sub><b>GCP</b></sub>
-    </td>
-    <td align="center" width="115">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60" alt="Docker" /><br>
       <sub><b>Docker</b></sub>
     </td>
