@@ -1,3 +1,42 @@
+<div align="center">
+
+# Hi, I'm Saad Hassan Qureshi 👋
+
+### ☁️ Cloud & DevOps Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&height=45&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Linux;Cloud+Infrastructure+%26+Automation;CI%2FCD+%7C+GitOps+%7C+Infrastructure+as+Code" alt="Typing SVG" />
+
+</div>
+---
+
+## 📍 About Me
+
+**Cloud & DevOps Engineer** focused on building, automating, deploying, and monitoring modern cloud infrastructure.
+
+I work with cloud platforms, Linux systems, containers, Infrastructure as Code, CI/CD pipelines, Kubernetes, GitOps, monitoring, and automation.
+
+I enjoy turning infrastructure into **reliable, automated, scalable, and reproducible environments** while continuously improving through hands-on projects and real-world problem solving.
+
+<p align="center">
+  ☁️ Cloud Infrastructure & Architecture
+  &nbsp; • &nbsp;
+  🚀 DevOps & CI/CD Automation
+  &nbsp; • &nbsp;
+  🐧 Linux Administration
+</p>
+
+<p align="center">
+  🐳 Containerization & Kubernetes
+  &nbsp; • &nbsp;
+  🏗️ Infrastructure as Code
+  &nbsp; • &nbsp;
+  🔄 GitOps
+  &nbsp; • &nbsp;
+  📊 Monitoring
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Scripting
@@ -143,3 +182,56 @@
     </td>
   </tr>
 </table>
+
+## 🎓 Certifications
+
+<p align="center">
+
+**AWS Certified DevOps Engineer – Professional**  
+**Python Programming for All Levels**  
+**Ethical Hacking & Cybersecurity**  
+**Linux Administration Bootcamp: Beginner to Advanced**  
+**Deloitte Data Analytics Job Simulation**  
+**Understanding Cloud Computing — DataCamp**
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=saadqureshiiiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saad's GitHub Stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadqureshiiiii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saadqureshiiiii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.saadsystems.me/">
+  <img src="https://img.shields.io/badge/Portfolio-SaadSystems-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://www.linkedin.com/in/saad-hassan-qureshi-1460153b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-Saad%20Hassan%20Qureshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Build • Automate • Deploy • Scale
+
+</div>
