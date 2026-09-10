@@ -223,6 +223,6 @@ I enjoy turning infrastructure into **reliable, automated, scalable, and reprodu
 
 <div align="center">
 
-### ⚡ Build • Automate • Deploy • Scale
+## ⚡ Build • Automate • Deploy • Scale
 
 </div>
