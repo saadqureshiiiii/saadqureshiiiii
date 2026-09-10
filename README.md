@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&height=45&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Linux;Cloud+Infrastructure+%26+Automation;CI%2FCD+%7C+GitOps+%7C+Infrastructure+as+Code" alt="Typing SVG" />
 
 </div>
---
 About Me
 
 **Cloud & DevOps Engineer** focused on building, automating, deploying, and monitoring modern cloud infrastructure.
