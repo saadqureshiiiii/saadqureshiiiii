@@ -151,7 +151,7 @@ I enjoy turning infrastructure into **reliable, automated, scalable, and reprodu
   </tr>
 </table>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <table>
   <tr>
