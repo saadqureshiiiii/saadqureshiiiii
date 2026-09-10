@@ -98,7 +98,7 @@ I enjoy turning infrastructure into **reliable, automated, scalable, and reprodu
   </tr>
 </table>
 
-### 🐧 Linux & System Administration
+## 🐧 Linux & System Administration
 
 <table>
   <tr>
