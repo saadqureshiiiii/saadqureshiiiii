@@ -223,10 +223,12 @@ ul {
         transform: scale(0.95);
         box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7);
     }
+
     70% {
         transform: scale(1);
         box-shadow: 0 0 0 6px rgba(16, 185, 129, 0);
     }
+
     100% {
         transform: scale(0.95);
         box-shadow: 0 0 0 0 rgba(16, 185, 129, 0);
@@ -290,8 +292,15 @@ ul {
 }
 
 @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
 }
 
 .nav-list {
@@ -452,8 +461,13 @@ ul {
 }
 
 @keyframes btnSpin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
 }
 
 /* --------------------------------------------------------------------------
@@ -589,9 +603,17 @@ ul {
     border-radius: 50%;
 }
 
-.dot-red { background-color: #ef4444; }
-.dot-yellow { background-color: #f59e0b; }
-.dot-green { background-color: #10b981; }
+.dot-red {
+    background-color: #ef4444;
+}
+
+.dot-yellow {
+    background-color: #f59e0b;
+}
+
+.dot-green {
+    background-color: #10b981;
+}
 
 .window-title {
     font-family: var(--font-mono);
@@ -922,12 +944,35 @@ ul {
     color: #16a34a;
 }
 
-[data-theme="dark"] .icon-linux { background-color: rgba(220, 38, 38, 0.2); color: #f87171; }
-[data-theme="dark"] .icon-git { background-color: rgba(234, 88, 12, 0.2); color: #fb923c; }
-[data-theme="dark"] .icon-aws { background-color: rgba(217, 119, 6, 0.2); color: #fbbf24; }
-[data-theme="dark"] .icon-docker { background-color: rgba(2, 132, 199, 0.2); color: #38bdf8; }
-[data-theme="dark"] .icon-k8s { background-color: rgba(37, 99, 235, 0.2); color: #60a5fa; }
-[data-theme="dark"] .icon-network { background-color: rgba(22, 163, 74, 0.2); color: #4ade80; }
+[data-theme="dark"] .icon-linux {
+    background-color: rgba(220, 38, 38, 0.2);
+    color: #f87171;
+}
+
+[data-theme="dark"] .icon-git {
+    background-color: rgba(234, 88, 12, 0.2);
+    color: #fb923c;
+}
+
+[data-theme="dark"] .icon-aws {
+    background-color: rgba(217, 119, 6, 0.2);
+    color: #fbbf24;
+}
+
+[data-theme="dark"] .icon-docker {
+    background-color: rgba(2, 132, 199, 0.2);
+    color: #38bdf8;
+}
+
+[data-theme="dark"] .icon-k8s {
+    background-color: rgba(37, 99, 235, 0.2);
+    color: #60a5fa;
+}
+
+[data-theme="dark"] .icon-network {
+    background-color: rgba(22, 163, 74, 0.2);
+    color: #4ade80;
+}
 
 .skill-header h3 {
     font-size: 1.05rem;
@@ -1049,8 +1094,13 @@ ul {
     flex-shrink: 0;
 }
 
-.conn-arrow { display: block; }
-.conn-arrow-down { display: none; }
+.conn-arrow {
+    display: block;
+}
+
+.conn-arrow-down {
+    display: none;
+}
 
 /* --------------------------------------------------------------------------
    13. Experience, Education & Certifications
@@ -1408,11 +1458,30 @@ ul {
     color: #dc2626;
 }
 
-[data-theme="dark"] .icon-phone { background-color: rgba(22, 163, 74, 0.2); color: #4ade80; }
-[data-theme="dark"] .icon-email { background-color: rgba(2, 132, 199, 0.2); color: #38bdf8; }
-[data-theme="dark"] .icon-linkedin { background-color: rgba(29, 78, 216, 0.2); color: #60a5fa; }
-[data-theme="dark"] .icon-globe { background-color: rgba(217, 119, 6, 0.2); color: #fbbf24; }
-[data-theme="dark"] .icon-location { background-color: rgba(220, 38, 38, 0.2); color: #f87171; }
+[data-theme="dark"] .icon-phone {
+    background-color: rgba(22, 163, 74, 0.2);
+    color: #4ade80;
+}
+
+[data-theme="dark"] .icon-email {
+    background-color: rgba(2, 132, 199, 0.2);
+    color: #38bdf8;
+}
+
+[data-theme="dark"] .icon-linkedin {
+    background-color: rgba(29, 78, 216, 0.2);
+    color: #60a5fa;
+}
+
+[data-theme="dark"] .icon-globe {
+    background-color: rgba(217, 119, 6, 0.2);
+    color: #fbbf24;
+}
+
+[data-theme="dark"] .icon-location {
+    background-color: rgba(220, 38, 38, 0.2);
+    color: #f87171;
+}
 
 .contact-icon svg {
     width: 20px;
@@ -1740,6 +1809,7 @@ ul {
         transform: translateY(20px);
         opacity: 0;
     }
+
     to {
         transform: translateY(0);
         opacity: 1;
@@ -1750,6 +1820,7 @@ ul {
    19. Responsive Media Queries (< 992px, < 768px, < 600px, < 380px)
    -------------------------------------------------------------------------- */
 @media (max-width: 992px) {
+
     .hero-grid,
     .about-grid,
     .timeline-grid,
