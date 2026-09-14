@@ -7,7 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&height=45&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Linux;Cloud+Infrastructure+%26+Automation;CI%2FCD+%7C+GitOps+%7C+Infrastructure+as+Code" alt="Typing SVG" />
 
 </div>
-About Me
+
+## About Me
 
 **Cloud & DevOps Engineer** focused on building, automating, deploying, and monitoring modern cloud infrastructure.
 
@@ -33,7 +34,8 @@ I enjoy turning infrastructure into **reliable, automated, scalable, and reprodu
   📊 Monitoring
 </p>
 
---
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Scripting
@@ -72,6 +74,7 @@ I enjoy turning infrastructure into **reliable, automated, scalable, and reprodu
       <sub><b>Kubernetes</b></sub>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="115">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="55" height="55" alt="Terraform" /><br>
@@ -176,32 +179,29 @@ I enjoy turning infrastructure into **reliable, automated, scalable, and reprodu
 
 <p align="center">
 
-**AWS Certified DevOps Engineer – Professional**  
-**Python Programming for All Levels**  
-**Ethical Hacking & Cybersecurity**  
-**Linux Administration Bootcamp: Beginner to Advanced**  
-**Deloitte Data Analytics Job Simulation**  
+**AWS Certified DevOps Engineer – Professional**
+**Python Programming for All Levels**
+**Ethical Hacking & Cybersecurity**
+**Linux Administration Bootcamp: Beginner to Advanced**
+**Deloitte Data Analytics Job Simulation**
 **Understanding Cloud Computing — DataCamp**
 
 </p>
 
------
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saadqureshiiiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saad's GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadqureshiiiii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saadqureshiiiii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=saadqureshiiiii&theme=tokyo-night&hide_border=true"
+alt="Saad Hassan Qureshi GitHub Activity Graph"
+/>
 
 </div>
 
---
+---
 
 ## 🌐 Connect With Me
 
