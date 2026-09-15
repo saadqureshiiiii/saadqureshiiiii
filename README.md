@@ -199,6 +199,13 @@ I enjoy turning infrastructure into **reliable, automated, scalable, and reprodu
   alt="Saad Hassan Qureshi GitHub Activity Graph"
 />
 
+<br><br>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=saadqureshiiiii&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
+
 </div>
 
 ## 🌐 Connect With Me
