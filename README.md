@@ -195,13 +195,11 @@ I enjoy turning infrastructure into **reliable, automated, scalable, and reprodu
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=saadqureshiiiii&theme=tokyo-night&hide_border=true"
-alt="Saad Hassan Qureshi GitHub Activity Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=saadqureshiiiii&theme=tokyo-night&hide_border=true"
+  alt="Saad Hassan Qureshi GitHub Activity Graph"
 />
 
 </div>
-
----
 
 ## 🌐 Connect With Me
 
