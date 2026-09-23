@@ -176,6 +176,7 @@ I enjoy turning infrastructure into **reliable, automated, scalable, and reprodu
   </tr>
 </table>
 
+
 ## 🎓 Certifications
 
 <p align="center">
