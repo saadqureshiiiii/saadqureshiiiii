@@ -5,17 +5,6 @@
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
 About Me
 
 **Cloud & DevOps Engineer** focused on building, automating, deploying, and monitoring modern cloud infrastructure.
