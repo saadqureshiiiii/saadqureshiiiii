@@ -6,7 +6,6 @@
 </div>
 
 About Me
-
 **Cloud & DevOps Engineer** focused on building, automating, deploying, and monitoring modern cloud infrastructure.
 
 I work with cloud platforms, Linux systems, containers, Infrastructure as Code, CI/CD pipelines, Kubernetes, GitOps, monitoring, and automation.
